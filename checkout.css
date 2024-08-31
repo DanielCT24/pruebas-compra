@@ -316,8 +316,9 @@ a:hover {
     width: 450px;
     overflow-y: auto;
     max-height: 750px;
-    max-width: 900px; 
     overflow-y: auto;
+    height: auto;
+    max-height: 700px;
 }
 
 /* Botón para eliminar el producto */
@@ -1498,7 +1499,7 @@ margin-left: 10px;
     max-width: 1200px;
     margin: 0 auto;
     margin-top: 125px;
-    height: 2390px;
+    height: auto;
     width: 485px;
 }
 input[type="text"], input[type="datetime-local"] {
