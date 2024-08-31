@@ -714,7 +714,7 @@ h4 {
     max-width: 1200px;
     margin: 0 auto;
     margin-top: 130px;
-    height: 1350px;
+    height: auto;
 }
 
 .swiper-button-prev::after {
@@ -1441,7 +1441,7 @@ input[type="operacion"] {
 }
 
 .pagos {
-    margin-top: 220px;
+    margin-top: 77px;
     margin-left: 630px;
 }
 
@@ -1478,7 +1478,7 @@ input[type="operacion"] {
 
     }
     .pagos {
-        margin-top: 145px;
+        margin-top: 45px;
         margin-left: 10px;
 
 }
