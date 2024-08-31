@@ -967,7 +967,8 @@ h4 {
     }
 
     .login-icon{
-        margin-top: 10px;
+        margin-top: -54px;
+        margin-left: 175px;
     }
 
 
@@ -1047,12 +1048,15 @@ h4 {
     }
     .menu-icono {
       margin-top: 18px; 
+      margin-left: 265px;
+
      }
 
     .menu .navbar {
-        text-align: center; /* Centra el contenido dentro del contenedor navbar */
+        text-align: center;
         display: none;
-        background-color:#f3b6f9 ;
+        background-color: #f3b6f9;
+        width: 490px;
     }
     
     .menu .navbar ul {
