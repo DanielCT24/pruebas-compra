@@ -273,10 +273,9 @@ a:hover {
 .delivery-date {
     color: #888;
     font-size: 13.5px;
+    margin-right: 6px;
+    width: 490px;
 }
-
-
-
 
 
 
