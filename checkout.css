@@ -315,7 +315,7 @@ a:hover {
 .containeritems {
     width: 450px;
     overflow-y: auto;
-    max-height: 850px;
+    max-height: 750px;
     max-width: 900px; 
     overflow-y: auto;
 }
