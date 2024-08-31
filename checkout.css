@@ -420,7 +420,7 @@ h4 {
     }
 
     input[type="datos"] {
-        width: 200px;
+        width: 226px;
         padding: 10px;
         margin-bottom: 10px;
         border: 1px solid #ccc;
@@ -440,7 +440,7 @@ h4 {
   
 
     input[type="text"], input[type="email"], select, textarea {
-        width: 410px;
+        width: 460px;
         padding: 12px;
         margin-bottom: 10px;
         border: 1px solid #ccc;
@@ -464,7 +464,7 @@ h4 {
         align-items: center;
         justify-content: space-between;
         background-color: #f9f9f9;
-        width: 410px;
+        width: 460px;
     }
 
     .payment-methods label {
@@ -1477,12 +1477,12 @@ input[type="operacion"] {
         position: relative;
         margin-top: -17px;
         width: 400px;
-        margin-left: -10px;
+        margin-left: 6px;
 
     }
     .pagos {
         margin-top: 45px;
-        margin-left: 10px;
+        margin-left: 28px;
 
 }
 
@@ -1492,7 +1492,7 @@ input[type="operacion"] {
 }
     
 .ultimo {
-    margin-left: -10px;
+    margin-left: 20px;
 }
     
 label {
@@ -1509,7 +1509,7 @@ margin-left: 10px;
 }
     
 input[type="text"], input[type="datetime-local"] {
-    width: 410px;
+    width: 460px;
     padding: 10px;
     margin: 10px 0;
     border: 1px solid #ccc;
