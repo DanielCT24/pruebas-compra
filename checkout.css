@@ -967,9 +967,12 @@ h4 {
     }
 
     .login-icon{
-        margin-top: 8px;
+        margin-top: -60px;
+        margin-right: -130px;
         margin-left: 175px;
     }
+
+
 
 
     .menu label {
