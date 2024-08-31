@@ -1490,9 +1490,11 @@ input[type="operacion"] {
     margin-left: 15px;
     width: 350px;
 }
+    
 .ultimo {
     margin-left: -10px;
 }
+    
 label {
 width: 400px;
 margin-left: 10px;
@@ -1503,8 +1505,9 @@ margin-left: 10px;
     margin: 0 auto;
     margin-top: 125px;
     height: auto;
-    width: 485px;
+    width: 515px;
 }
+    
 input[type="text"], input[type="datetime-local"] {
     width: 410px;
     padding: 10px;
@@ -1512,6 +1515,7 @@ input[type="text"], input[type="datetime-local"] {
     border: 1px solid #ccc;
     border-radius: 5px;
 }
+    
 input[type="datetime-local"] {
     width: 350px;
     padding: 10px;
@@ -1519,6 +1523,7 @@ input[type="datetime-local"] {
     border: 1px solid #ccc;
     border-radius: 5px;
 }
+    
 input[type="operacion"] {
     width: 350px;
     padding: 10px;
