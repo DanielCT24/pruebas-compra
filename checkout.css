@@ -1379,7 +1379,7 @@ small {
 }
 
 input[type="text"], input[type="datetime-local"] {
-    width: 410px;
+    width: 550px;
     padding: 10px;
     margin: 10px 0;
     border: 1px solid #ccc;
