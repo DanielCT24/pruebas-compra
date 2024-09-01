@@ -1554,10 +1554,12 @@ input[type="operacion"] {
 @media(max-width: 991px){
 
 #yapeModal .qr-code {
-    width: 150px;  /* Ancho deseado */
-    height: 100px; /* Altura deseada */
+    width: 220px;  /* Ancho deseado */
+    height: 200px; /* Altura deseada */
     object-fit: cover; /* Ajusta la imagen dentro del contenedor */
     margin-top: 20px;  /* Margen superior para separar la imagen del contenido */
+    max-width: 220px;
+    max-height: 200px;
 }
 
 }
