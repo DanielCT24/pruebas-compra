@@ -1371,6 +1371,8 @@ small {
     margin-top: 30px;
     max-height: 190px;
     max-width: 160px;
+    cursor: pointer;
+
 }
 
 
